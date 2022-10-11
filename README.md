@@ -1,6 +1,6 @@
 # Ethers.js Simple Storage
 
-A practice Simple Storage smart contract using Ethers.js.
+A practice Simple Storage smart contract using Ethers.js from the FreeCodeCamp web3 course: https://youtu.be/gyMwXuJrbJQ.
 
 ## Run
 
@@ -10,4 +10,4 @@ Clone the repo, restore dependencies, and run `yarn compile` to compile the soli
 
 Create your `.env` from the `.env.example`, filling in your private key, encryption password, and RPC URL. Run `node dist/encryptKey.js` to encript your private key, and then `node dist/deploy.js` to deploy the contract.
 
-Example output on the Goerli testnet: https://goerli.etherscan.io/address/0xc64C759a759595BeF69798547a0f0Eab22Ae493C
+Example output on the Goerli testnet: https://goerli.etherscan.io/address/0xc64C759a759595BeF69798547a0f0Eab22Ae493C.
